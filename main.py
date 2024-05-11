@@ -1,5 +1,5 @@
 import tls_client
-TOKEN = ""
+TOKEN = "" #Put your token here
 session = tls_client.Session(
                     client_identifier="okhttp4_android_9",
                     random_tls_extension_order=True
